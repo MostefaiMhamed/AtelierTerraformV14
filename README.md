@@ -7,5 +7,5 @@ Défis de l’infra actuelle
 - Travailler ensemble
 - Tenir à jour les inventaires (utilisables)
 
-Objectif original Terraform
+Objectif original Terraform : 
 Terraform est un outil pour construire, modifier et contrôler votre infrastructure
